@@ -1,0 +1,4 @@
+language: go
+go: "1.15"
+go_import_path: github.com/igor-karpukhin/load-balancer-example
+script: make build
